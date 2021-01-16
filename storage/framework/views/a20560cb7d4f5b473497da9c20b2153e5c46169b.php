@@ -1,0 +1,1 @@
+<?php /**PATH C:\wamp64\www\QTT_Mobile\resources\views/frontend/sanpham_chitiet.blade.php ENDPATH**/ ?>
